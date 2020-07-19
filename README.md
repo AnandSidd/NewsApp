@@ -18,7 +18,8 @@ This project is about combining various ideas and skills we’ve been practicing
 - Doing network operations independent of the Activity lifecycle.
 
 # Screenshots
-<br> </br> <img src="" height=500 width=300>
+<br> </br> <img src="https://github.com/AnandSidd/News-master/blob/master/Screenshot_20200719-180138_News.jpg" height=500 width=300>
+<br> </br> <img src="https://github.com/AnandSidd/News-master/blob/master/Screenshot_20200719-180202_News.jpg" height=500 width=300>
 
 **It is a fully open source project so go ahead and fork it.**
 
