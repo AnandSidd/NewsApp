@@ -1,6 +1,6 @@
 # News
 - Project News app
-- Powered by [NewsApi.org](https://newsapi.org/).
+- API used [NewsApi.org](https://newsapi.org/).
 
 # Description
 - Get the lates news around the world 
