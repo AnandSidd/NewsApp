@@ -18,9 +18,8 @@ This project is about combining various ideas and skills we’ve been practicing
 - Doing network operations independent of the Activity lifecycle.
 
 # Screenshots
-<br>  <img src="https://github.com/AnandSidd/News-master/blob/master/Screenshot_20200719-180138_News.jpg" height=700 width=300>
- <img src="https://github.com/AnandSidd/News-master/blob/master/Screenshot_20200719-180202_News.jpg" height=700 width=300></br>
+<br>  <img src="https://github.com/AnandSidd/News-master/blob/master/Screenshot_20200719-180138_News.jpg" height=650 width=300>
+ <img src="https://github.com/AnandSidd/News-master/blob/master/Screenshot_20200719-180202_News.jpg" height=650 width=300></br>
 
-**It is a fully open source project so go ahead and fork it.**
 
 **Note:-** Please use your own API KEY. Register your APIKey from [NewsAPI.org](https://newsapi.org).
