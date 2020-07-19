@@ -22,4 +22,4 @@ This project is about combining various ideas and skills we’ve been practicing
  <img src="https://github.com/AnandSidd/News-master/blob/master/Screenshot_20200719-180202_News.jpg" height=650 width=300></br>
 
 
-**Note:-** Please use your own API KEY. Register your APIKey from [NewsAPI.org](https://newsapi.org).
+**Note:-** Please use your own API KEY. Register your APIKey from [NewsAPI.org](https://newsapi.org). Place the API key in <src ="https://github.com/AnandSidd/News-master/blob/master/app/src/main/java/com/example/prans/news/model/Contants.java">
