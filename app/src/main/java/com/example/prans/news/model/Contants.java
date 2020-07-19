@@ -9,7 +9,7 @@ public class Contants {
     public static final String BASE_URL = "https://newsapi.org/v2/";
 
     //API Key
-    public static final String API_KEY = "256cae30d89c4dbebb8808757930ad2a";
+    public static final String API_KEY = "Put your api key here";
 
 
     public static final String SOURCES_CNN = "cnn";
