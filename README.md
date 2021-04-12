@@ -1,4 +1,4 @@
-# News
+# NewsApp
 - Project News app
 - API used [NewsApi.org](https://newsapi.org/).
 
